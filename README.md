@@ -48,6 +48,7 @@
 ### 2016.07.20 
 * [聊聊阻塞与非阻塞、同步与异步、I/O 模型](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650861845&idx=1&sn=7ce6bc4b75bbe6d68c1ca313a4221c09&scene=23&srcid=07194De6P71w4PsiJrZLZwTx#rd)
 * [基于Raft构建弹性伸缩的存储系统的一些实践](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597726&idx=1&sn=2c19e234aaa59c880a8d8f291ccac118&scene=23&srcid=0719M2K6G25SJ8s2jriMJrsr#rd)
+
 ### 2016.07.19
 * [微服务实战：从架构到部署](http://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649690838&idx=1&sn=3311478250ddf0b487efb4b1ff0f9b4a&scene=23&srcid=0718JJmHa487XpNrb3jiPRiS#rd)
 * [覃超：Facebook iOS App技术演化十年之路](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993357&idx=1&sn=51683b149e4c29e0095a33161511cafb&scene=23&srcid=0722RJ51mUZRfEoxvps6DVP5#rd)
