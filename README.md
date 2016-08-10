@@ -324,7 +324,7 @@
 * [关于烂代码的那些事 － 为什么每个团队存在大量烂代码](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=403520625&idx=1&sn=c59f3944760a055ee7b6d1dda4431e0a&scene=23&srcid=01138qxBuGkMMdTiBO6FyrjG#rd)
 
 ### 2016.01.08
-*[深入理解同步/异步与阻塞/非阻塞区别](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=403270751&idx=1&sn=7269cd113d7b85e407319036d61ef786&scene=23&srcid=0108M9GcQ2oJDHdZFawzSiR7#rd)
+* [深入理解同步/异步与阻塞/非阻塞区别](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=403270751&idx=1&sn=7269cd113d7b85e407319036d61ef786&scene=23&srcid=0108M9GcQ2oJDHdZFawzSiR7#rd)
 
 ### 2016.01.07
 * [MySQL HA方案之MySQL半复制+MHA+Keepalived+Atlas+LVS](http://hugnew.com/?p=749)
