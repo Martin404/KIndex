@@ -71,15 +71,19 @@
 
 ### 2016.07.12
 * [腾讯后台开发高级工程师：分布式系统设计的求生之路](http://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=2650756051&idx=1&sn=a449d2a8cab09b862fc6b454de6071c5&scene=23&srcid=0712vEWdkeXsOpFzBiZcj5Tx#rd)
+* [秒杀系统架构解密与防刷设计 - 高可用架构系列](https://github.com/Martin404/KIndex/edit/master/README.md)
 
 ### 2016.07.11
 * [聊一聊淘宝首页和它背后的一套](http://www.barretlee.com/blog/2016/06/02/thing-about-taobao-homepage/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io&from=timeline&isappinstalled=0)
+* [一致性 hash 和 Solr 千万级数据分布式搜索引擎中的应用](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=211442049&idx=1&sn=54462d455d5d1584489e1f97b0c58871&scene=1&srcid=0810YWsTKF2Q5omCCfhjnWdN#wechat_redirect)
 
 ### 2016.07.07
 * [【技术天花板】老司机乱谈破局——做自己的破壁人](http://mp.weixin.qq.com/s?__biz=MTEwNTM0ODI0MQ==&mid=2653433290&idx=1&sn=ae9fc9a0485f432ba7e1618179621b0d&scene=23&srcid=0706lWI68wVQ5KkYKSVKgStB#rd)
+* [单表60亿记录等大数据场景的MySQL优化和运维之道 | 高可用架构](http://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=210611527&idx=1&sn=def2a10b3ea7e2d54ed13eb0f00f72d1&scene=1&srcid=0810BRWj9lg5Ap1L2aWNlw4q#wechat_redirect)
 
 ### 2016.07.06
 * [性能测试应该怎么做？](http://mp.weixin.qq.com/s?__biz=MzI4NTAyOTA0OA==&mid=2457432848&idx=1&sn=c26c616bcf1422747db820f03df56d88&scene=23&srcid=0706O6tHSr6wisiRhZikdNgP#rd)
+* [性能调优攻略](http://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=210611527&idx=1&sn=def2a10b3ea7e2d54ed13eb0f00f72d1&scene=1&srcid=0810BRWj9lg5Ap1L2aWNlw4q#rd)
 
 ### 2016.07.05
 * [如何编写一个分布式数据库](http://mp.weixin.qq.com/s?__biz=MjM5OTcxMzE0MQ==&mid=207696233&idx=1&sn=660fa3434ddac01b391bbfffa9b14c66#rd)
@@ -91,9 +95,11 @@
 
 ### 2016.07.01
 * [Jenkins+Docker搭建持续集成测试环境](http://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649690514&idx=1&sn=8cfaa34fe24aa114593f27088d7319ff&scene=23&srcid=0628tNnAddSa7Tc2Kp4Ybgpg#rd)
+* [持续集成系统的演进之路](http://mp.weixin.qq.com/s?__biz=MzIwNjA0OTU0NQ==&mid=210229356&idx=1&sn=f18cd04659d46bea363f28fc51603310&scene=1&srcid=0914ISePXahg34Dz7KeAs8Kz#wechat_redirect)
 
 ### 2016.06.30
 * [Mysql索引实现原理及相关优化策略](http://mp.weixin.qq.com/s?__biz=MzA4ODIxMzg5MQ==&mid=2653995839&idx=1&sn=21dacffad0969b52589d2dcbd4bfb5a0&scene=23&srcid=0605zHZjbW9XOKVUFUtnSc2M#rd)
+* [白话 IT 之要不要从 rabbitMQ 转 kafka？](http://mp.weixin.qq.com/s?__biz=MzA3MjEyNTE4MQ==&mid=403459151&idx=1&sn=640ba3d9ea70e23ace8b99aff764e42f&scene=1&srcid=0107sRWBV0oBhdrHfXDMt7UL#wechat_redirect)
 
 ### 2016.06.29
 * [有一种焦虑叫做三十不立](http://mp.weixin.qq.com/s?__biz=MzA5NzQ2MjMxMQ==&mid=2705021245&idx=1&sn=b8077cf134484fb2a1fcd060554ab4d7&scene=23&srcid=0601QGzBeussJyV7el8EFAbR#rd)
@@ -101,36 +107,47 @@
 
 ### 2016.06.28
 * [微信开源：生产级paxos类库PhxPaxos实现原理介绍](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993105&idx=1&sn=d1566927744480b3b47f06bc9ee86f79&scene=23&srcid=0628ZrcAj4dh45L6fTaEahWj#rd)
+* [亿级商品详情页架构演进技术解密 | 高可用架构系列](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=210272034&idx=1&sn=3be9d2b53c7fec88716ee8affd2515f8&scene=1&srcid=T2fQukZzs8m52P0ZusLw#wechat_redirect)
 
 ### 2016.06.27
 * [校长:技术成长四个阶段需要的架构知识](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=406063297&idx=1&sn=0cd1fc5495e1e26471d7a4ffcd96cd0f&scene=23&srcid=0627vRZUN3uCRDpSbF2u9kzG#rd)
+* [大型网站架构不得不考虑的10个问题](http://mp.weixin.qq.com/s?__biz=MzAxNjAzMTQyMA==&mid=208597129&idx=1&sn=7ebe01ee88e511da93fe9c979a638788&scene=1&srcid=0929GNEV9jw2HV8R6ituGmvJ#wechat_redirect)
 
 ### 2016.06.24
 * [基于Dubbo框架构建分布式服务](http://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652556634&idx=1&sn=67f2c92745ab8035517291a35ba5f755&scene=23&srcid=06245F3VPcU9gJBblHL7WcJn#rd)
+* [数据库软件架构设计些什么](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400465735&idx=1&sn=8d7067de4cc8f73ea5558f07e0a9340e&scene=1&srcid=1102K7e6TeqHRlgbOM6sInRY#wechat_redirect)
 
 ### 2016.06.23
 * [挑战舒适区，人生更精彩](http://mp.weixin.qq.com/s?__biz=MzAwNzM1NjQyNg==&mid=2649961505&idx=1&sn=ce3b291ca839739866ad4091bb687ef1&scene=23&srcid=0623Icyo7w8PqkOS87IH8VMe#rd)
+* [听阿里巴巴JVM工程师为你分析常见Java故障案例](http://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=401671407&idx=1&sn=dc4e60fc2c0dcbc5259c5f28cdaca0a3&scene=1&srcid=1225rioyxoYMRGiQVGMKOlzV#wechat_redirect)
 
 ### 2016.06.22
 * [缓存穿透、并发和失效，来自一线架构师的解决方案](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597537&idx=1&sn=9c91d231315b507b5eaea0e465a01423&scene=23&srcid=0622htSHJwVy7McdNuFhBFqb#rd)
+* [关于分布式事务、两阶段提交协议、三阶提交协议](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=400913920&idx=1&sn=dd274ce33291e4c9098a881072b3fd47&scene=1&srcid=1212h81O0O2vjfRNSMa90Gl9#wechat_redirect)
 
 ### 2016.06.20
 * [50天10万行代码，一号专车系统重构细节回顾](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993001&idx=1&sn=e063b825bc6dcda8a7d1b2cc292402cf&scene=23&srcid=0620FYuah8mCQtQ5wpvEeln9#rd)
+* [实施微服务需要哪些基础框架｜技术热点](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=400645575&idx=1&sn=da55d75db55117046c520de88dde1123&scene=1&srcid=1109XAQ6ZhXGRe6trz3blGJb#wechat_redirect)
 
 ### 2016.06.16
 * [Redis中国用户组|大容量类Redis存储--Pika介绍](http://www.jianshu.com/p/878812193de4?from=timeline&isappinstalled=0)
+* [基于Redis实现库存的排队/占位/清位](http://www.wtoutiao.com/p/fb1DP3.html?from=timeline&isappinstalled=0)
 
 ### 2016.06.15
 * [相似图片搜索的原理](http://mp.weixin.qq.com/s?__biz=MjM5OTA1MDUyMA==&mid=2655436059&idx=1&sn=8f1e005bef34f736df897a2116cb0738&scene=23&srcid=0609m7zxN6wcirffRphdS1l3#rd)
+* [Web系统大规模并发：电商秒杀与抢购](http://mp.weixin.qq.com/s?__biz=MjM5NDMwNjMzNA==&mid=208256276&idx=1&sn=4a0fc22075e4b77e2d25ef9cee1f5cd2&scene=1&srcid=0923UFFQ3zNLkSlnKQ7v5kJN#wechat_redirect)
 
 ### 2016.06.14
 * [这20个正则表达式，让你少写1,000行代码](http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655807432&idx=1&sn=6ee6af53f1fbaee19960446afba1b575&scene=23&srcid=0612MSJoh4CKtiAb9zacQvWx#rd)
+* [小米抢购限流峰值系统架构历年演进历程](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=402166895&idx=1&sn=a8c6ed9c41085ee15d53eb4b9ed6bbc7&scene=1&srcid=1203zt4r9d5KVmmsn2etdekm#wechat_redirect)
 
 ### 2016.06.13
 * [一个可供参考的Java高并发异步应用案例](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597332&idx=1&sn=f2f6a3f660386aa9a89133db82697770&scene=23&srcid=0613tEf671j8Y8VzRsK4cjvR#rd)
+* [腾讯防刷负责人：基于用户画像大数据的电商防刷架构](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=400931866&idx=1&sn=b96873fc9f726e5705b2653968f1d992&scene=1&srcid=1029jQRJKUK2rkUPMTn9c4mm#wechat_redirect)
 
 ### 2016.06.12
 * [从30岁至35岁：为你的生命多积累一些厚度](http://m.xinli001.com/info/100010029?from=timeline&isappinstalled=0)
+* [技术团队代码分支管理指南](https://segmentfault.com/a/1190000003759271?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io&from=timeline&isappinstalled=0)
 
 ### 2016.06.07
 * [API 调用次数限制实现](https://zhuanlan.zhihu.com/p/20872901?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io&from=timeline&isappinstalled=0)
@@ -246,3 +263,71 @@
 
 ### 2016.03.28
 * [晋升的为什么不是你](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=404332602&idx=1&sn=a50ed411c893f6aeadbd66a25d31b94c&scene=23&srcid=03280eU6zn62OiwDOXYGCuWr#rd)
+
+### 2016.03.25
+* [秒杀业务架构优化之路](http://mp.weixin.qq.com/s?__biz=MzI4NzE1NTYyMg==&mid=402348782&idx=1&sn=8fb1a9c255e50ebeb1c37c92af33895e&scene=23&srcid=0324nlGFzxTfo9FRn3YevxC0#rd)
+
+### 2016.03.23
+* [聊聊技术面试](http://mp.weixin.qq.com/s?__biz=MzA5MTA0NjgzMQ==&mid=403675854&idx=1&sn=1315ab77402ea0e9c64c92cfc10f0536&scene=23&srcid=03221SEaJQjeAqwhw3mlHt5U#rd)
+
+### 2016.03.22
+* [案例分析：基于消息的分布式架构](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=409203022&idx=1&sn=67f2f61b6b0874cd5fb9cd142573517f&scene=23&srcid=0221aPkkDOhENUv2o4tY91KU#rd)
+
+### 2016.03.21
+* [应用多级缓存模式支撑海量读服务](http://mp.weixin.qq.com/s?__biz=MzIwODA4NjMwNA==&mid=405099864&idx=1&sn=3508ac8b0e66ebe899086eb20a94f8b9&scene=23&srcid=0321T9iXrkaOpzD4keB4PqTp#rd)
+
+### 2016.03.18 
+* [浅谈指数退避算法](http://mp.weixin.qq.com/s?__biz=MzI0ODE4MDEzOA==&mid=401873378&idx=1&sn=d2696ca7596646cf324d1a41c2793e70&scene=23&srcid=0317GHU5jyiQs7zTP5ZVY5ki#rd)
+
+### 2016.03.16
+* [如何成为架构师？7个关键的思考、习惯和经验](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=410252715&idx=1&sn=d1d5f95de8d1905c4530955f862f735b&scene=23&srcid=0314LSXFQXhVjHFY9ySMFLTQ#rd)
+
+### 2016.03.15
+* [关于分布式数据库，你该了解的几件事](http://mp.weixin.qq.com/s?__biz=MzA3MjY1MTQwNQ==&mid=401892985&idx=1&sn=775a2fc323a811cb87a35d5f7cb83415&scene=23&srcid=0316aUjxN3YqAQcGrLdQYAYn#rd)
+
+### 2016.03.14
+* [高等数学、线性代数、概率与数理统计、这些知识和能力可以用来干什么？](http://mp.weixin.qq.com/s?__biz=MzA5ODUxOTA5Mg==&mid=400960500&idx=1&sn=e848b4454b58bfa0582bbd1eb6d2ab4a&scene=23&srcid=03110RtpYrGO5u7TFrUpIvFv#rd)
+* [2个实例+5个维度解读APM技术](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=405978109&idx=1&sn=be8aec58aa142b499480d519abde6806&scene=1&srcid=0314hOiZjzvFmv9HdDFmD2fL#wechat_redirect)
+* [陈靖华：解读APM技术分类和实现方式](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=406002084&idx=1&sn=cee31b63173c6d9b8fd9ccd17fda273a&scene=1&srcid=0315y5mu06xYf2mSlJnO3xtm#wechat_redirect)
+
+### 2016.03.11
+* [nice服务端架构重构与演进](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=404472153&idx=1&sn=c588d4b4758775304cf19871c3f8bffe&scene=23&srcid=0311TPZAobUw5Z5lag2IzNpY#rd)
+
+### 2016.03.10
+* [细聊冗余表数据一致性](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=403963671&idx=1&sn=51a2d2fd70212451cd5f22bbe2c6f8d6&scene=23&srcid=03015cy5AdBRssnPkOfEeQxT#rd)
+
+### 2016.03.07
+* [阿朱：从50到5000，从技术到人](http://mp.weixin.qq.com/s?__biz=MzA4MTEzNzUwMw==&mid=404614240&idx=1&sn=258cd59b989754d0060aa9fbce15290a&scene=23&srcid=0123KSxXkAgex1wWG8vWbljX#rd)
+
+### 2016.03.06
+* [并发之痛 Thread，Goroutine，Actor](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=404242829&idx=1&sn=aacddf1c2c828281e6202eff8cd374f5&scene=1&srcid=0302BgU45Ei5RjY2CKXGpfjR#wechat_redirect)
+
+### 2016.03.05
+* [解密微博红包：架构、防刷、监控和资源调度](http://www.infoq.com/cn/articles/2016-hongbao-weibo?from=timeline&isappinstalled=0#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1)
+
+### 2016.02.25
+* [互联网时代的自由职业观](http://mp.weixin.qq.com/s?__biz=MzI0ODE4MDEzOA==&mid=401612195&idx=1&sn=3d62c78d5f5d1bdcf46b45ea59685fa6&scene=23&srcid=0225zSoX0uyV2f2E8tBspN0s#rd)
+
+### 2016.02.22
+* [细聊分布式ID生成方法](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=403837240&idx=1&sn=ae9f2bf0cc5b0f68f9a2213485313127&scene=1&srcid=02220pchRp2g3SOjGgb2my2B#wechat_redirect)
+
+### 2016.01.22
+* [曾经的中国互联网](http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=401363118&idx=1&sn=3e30a2514bebea77ea339ab0ab144308&scene=23&srcid=0122kwViPPo0JmPtvrpMB1f0#rd)
+
+### 2016.01.21
+* [微博分布式存储考试题：案例讲解及作业精选](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=403619448&idx=1&sn=df29fcbeb5a229b98379b86b162d916c&scene=23&srcid=0121tBUWQtMyjM4Qw51EZae3#rd)
+
+### 2016.01.18
+* [架构师需要了解的Paxos原理、历程及实战](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=403582309&idx=1&sn=80c006f4e84a8af35dc8e9654f018ace&scene=23&srcid=0118Xl5QXuCULS4R9LdijsaU#rd)
+
+### 2016.01.15
+* [关于烂代码的那些事 － 为什么每个团队存在大量烂代码](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=403520625&idx=1&sn=c59f3944760a055ee7b6d1dda4431e0a&scene=23&srcid=01138qxBuGkMMdTiBO6FyrjG#rd)
+
+### 2016.01.08
+*[深入理解同步/异步与阻塞/非阻塞区别](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=403270751&idx=1&sn=7269cd113d7b85e407319036d61ef786&scene=23&srcid=0108M9GcQ2oJDHdZFawzSiR7#rd)
+
+### 2016.01.07
+* [MySQL HA方案之MySQL半复制+MHA+Keepalived+Atlas+LVS](http://hugnew.com/?p=749)
+
+### 2016.01.06
+* [电商网站的初期技术选型](http://hugnew.com/?p=822)
