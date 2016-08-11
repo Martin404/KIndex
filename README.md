@@ -1,5 +1,9 @@
 # KIndex
 技术知识点索引，每日一读
+### 2016.08.11
+* [技术的正宗与野路子](http://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=2657261357&idx=1&sn=ebb11a1623e00ca8e6ad55c9ad6b2547&scene=1&srcid=0811HMVKCvvOiygrxENoe0WY#rd)
+* [Android端外推送到底有多烦？](http://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=2657261350&idx=1&sn=6cea730ef5a144ac243f07019fb43076&scene=1&srcid=0811SY3tqbKbFKzUnF9nGC1u#rd)
+
 ### 2016.08.10
 * [不谈架构，看看如何从代码层面优化系统性能！](http://mp.weixin.qq.com/s?__biz=MjM5MDQ2NjYzNQ==&mid=2656595738&idx=1&sn=418718992942904c72499bae0bc063d1&scene=23&srcid=0810xVMFFZMRSQMaJLLzRDne#rd)
 * [深入浅出 Redis Cluster 原理，来自一次干货分享](http://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651296996&idx=2&sn=5f4811d73e74e2a63b1cb0d3d532862a&scene=23&srcid=08093FVw9nBy03Mw6q8cQ2ve#rd)   
