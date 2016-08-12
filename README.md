@@ -1,5 +1,10 @@
 # KIndex
 技术知识点索引，每日一读
+### 2016.08.12
+* [微服务架构下的数据一致性保证（一）](http://mp.weixin.qq.com/s?__biz=MzI5MDEzMzg5Nw==&mid=2660392782&idx=1&sn=d28e43bf6f7cf140eed9fffcf2f29e86&scene=1&srcid=08128cRVKB6R9obeEgrBE9GT#rd)
+* [微服务架构下的数据一致性保证（二）](http://mp.weixin.qq.com/s?__biz=MzI5MDEzMzg5Nw==&mid=2660392867&idx=1&sn=7f751483271fbe2b25d103df1eb45977&scene=1&srcid=0812QMmVlLXzdlzDdU12VVRK#rd)
+* [微服务架构下的数据一致性保证（三）：补偿模式](http://mp.weixin.qq.com/s?__biz=MzI5MDEzMzg5Nw==&mid=2660392948&idx=1&sn=11602f1258af8bbf88322558aa8a2f21&scene=1&srcid=0812CD0bif17dLfBJaM13VFe#rd)
+
 ### 2016.08.11
 * [技术的正宗与野路子](http://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=2657261357&idx=1&sn=ebb11a1623e00ca8e6ad55c9ad6b2547&scene=1&srcid=0811HMVKCvvOiygrxENoe0WY#rd)
 * [Android端外推送到底有多烦？](http://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=2657261350&idx=1&sn=6cea730ef5a144ac243f07019fb43076&scene=1&srcid=0811SY3tqbKbFKzUnF9nGC1u#rd)
