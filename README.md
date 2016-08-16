@@ -1,5 +1,15 @@
 # KIndex
 技术知识点索引，每日一读
+### 2016.08.16
+* [再来一个很妖的问题](http://weibo.com/ttarticle/p/show?id=2309404003654557427834)
+* [从一个故障说说Java的三个BlockingQueue](http://mp.weixin.qq.com/s?__biz=MjM5MzYzMzkyMQ==&mid=2649826284&idx=1&sn=443247a72a5e50dd9fef77610e42e2a4&scene=1&srcid=0816ajbIpw48zEBjV9A6p4UE#rd)
+* [GC压垮了最后一根稻草](http://mp.weixin.qq.com/s?__biz=MjM5MzYzMzkyMQ==&mid=400068425&idx=1&sn=314334e6d5fc4a01c822a7f996180378&scene=1&srcid=0816YUqzN7nzZYmQ7tUWOhoj#rd)
+* [一个Web应用访问偶尔慢的Case](http://mp.weixin.qq.com/s?__biz=MjM5MzYzMzkyMQ==&mid=200731433&idx=1&sn=7c3d55db0503fdcb40897dcdb3502bfc&scene=1&srcid=0816CkE1PIlRXXVVohFoichy#rd)
+* [一个挺有意思的OOM Case](http://mp.weixin.qq.com/s?__biz=MjM5MzYzMzkyMQ==&mid=200172247&idx=1&sn=d481afcaef13676108cdcaa1821e7302&scene=1&srcid=0816ACTA1IeaTBuLeFxv31sG#rd)
+* [分布式系统中复杂的超时问题排查](http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MzYzMzkyMQ==&appmsgid=10014203&itemidx=1&sign=5c7e04168a6004243fc34127449b7ef3&scene=1&srcid=0816CxTSfJ97Tv9O2JZNHMJS#wechat_redirect)
+* [一行代码引发的应用无响应case](http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MzYzMzkyMQ==&appmsgid=10000118&itemidx=1&sign=840ad717d2b77c8b5322ca6e435493bd&scene=1&srcid=08169sQgiFRuyvEhP6debxwF#wechat_redirect)
+* [一个比较折腾的应用启动失败的排查case](http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MzYzMzkyMQ==&appmsgid=10000124&itemidx=1&sign=56af2451f5a1cda93bb540eadba9e7d7&scene=1&srcid=0816GvKC7e0TSro8IokuZREn#wechat_redirect)
+
 ### 2016.08.15
 * [百姓网 Elasticsearch 2.x 升级之路](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547666&idx=1&sn=f57978358640a8af61d6cbf404ef32b9&scene=1&srcid=0815ZazsYmuk5lRUffbU8iN5#rd)
 * [Nginx源码分析：核心模块剖析及常见问题](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=404084553&idx=1&sn=82bdb91a88a5397a040eebf9eae85549&scene=1&srcid=0222Ls7Zi5cubVD0nmpw2QGt#rd)
