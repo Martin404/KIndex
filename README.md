@@ -1,5 +1,9 @@
 # KIndex
 技术知识点索引，每日一读
+### 2016.08.17
+* [一篇文了解分布式队列编程：从模型、实战到优化](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993684&idx=1&sn=0403eb8fd58e0751aaeceaacc7fb52b1&scene=1&srcid=08171or3Iv1iHsr5Am2TGVs6#rd)
+* [【庖丁解牛】HashMap源代码解析（多图）](http://mp.weixin.qq.com/s?__biz=MzA3NzM2Mjc4Mw==&mid=2650248390&idx=1&sn=edf84a9259a9d247e5a1dfecc5f90997&scene=1&srcid=0817llN6epG97SNFDG8UcIG8#rd)
+
 ### 2016.08.16
 * [再来一个很妖的问题](http://weibo.com/ttarticle/p/show?id=2309404003654557427834)
 * [从一个故障说说Java的三个BlockingQueue](http://mp.weixin.qq.com/s?__biz=MjM5MzYzMzkyMQ==&mid=2649826284&idx=1&sn=443247a72a5e50dd9fef77610e42e2a4&scene=1&srcid=0816ajbIpw48zEBjV9A6p4UE#rd)
