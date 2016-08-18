@@ -1,5 +1,9 @@
 # KIndex
 技术知识点索引，每日一读
+### 2016.08.18
+* [简明解释算法中的大O符号](http://blog.jobbole.com/55184/)
+* [浅谈算法和数据结构（3）：合并排序](http://blog.jobbole.com/79293/)
+
 ### 2016.08.17
 * [一篇文了解分布式队列编程：从模型、实战到优化](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993684&idx=1&sn=0403eb8fd58e0751aaeceaacc7fb52b1&scene=1&srcid=08171or3Iv1iHsr5Am2TGVs6#rd)
 * [【庖丁解牛】HashMap源代码解析（多图）](http://mp.weixin.qq.com/s?__biz=MzA3NzM2Mjc4Mw==&mid=2650248390&idx=1&sn=edf84a9259a9d247e5a1dfecc5f90997&scene=1&srcid=0817llN6epG97SNFDG8UcIG8#rd)
