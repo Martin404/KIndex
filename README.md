@@ -1,5 +1,9 @@
 # KIndex
 技术知识点索引，每日一读
+### 2016.08.19
+* [基于Event Sourcing和DSL的积分规则引擎设计实现案例](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597948&idx=1&sn=754df1597fd042537be8c25d073d3c98&scene=1&srcid=0819GVL1PHJWndn88sIl1lOE#rd)
+* [哪里真有什么信息过剩，你过剩吸收的是垃圾，你需要的信息你根本没有获取够](http://mp.weixin.qq.com/s?__biz=MjM5MjUwNzIyMA==&mid=208448913&idx=1&sn=12e26bbbd9e0856a38903b37dc37d4e8&scene=1&srcid=0819y6bsLb75pkZIVokToxet#rd)
+
 ### 2016.08.18
 * [简明解释算法中的大O符号](http://blog.jobbole.com/55184/)
 * [浅谈算法和数据结构（3）：合并排序](http://blog.jobbole.com/79293/)
