@@ -1,5 +1,9 @@
 # KIndex
 技术知识点索引，每日一读
+### 2016.08.24
+* [互联网架构，如何进行容量设计？](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959542&idx=1&sn=2494bbea9a855e0e1c3ccd6d2562a600&scene=1&srcid=0824auV5uT2PWLnXPXYFjxuk#rd)
+* [30分钟拥有MBA商业分析能力](http://mp.weixin.qq.com/s?__biz=MjM5MDQ2NjYzNQ==&mid=2656595640&idx=1&sn=d730019b7ed6d8a8621b1f5e785c3efd&scene=1&srcid=0702ALrroHiLtgycix8vqXGy#rd)
+
 ### 2016.08.23
 * [腾讯高级工程师：一道面试题引发的高并发性能调试思考](http://mp.weixin.qq.com/s?__biz=MzI4NTA1MDEwNg==&mid=2650756383&idx=1&sn=8d457160dc5fcf1f23294e0d7ad67165&scene=1&srcid=0823niS4ilTq3O2TQvaBeJUe#rd)
 * [深度解析：持续交付将如何拯救IT运维？](http://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651661572&idx=1&sn=9db23e5b019210202e989dda2a23be3d&scene=1&srcid=08221dutof5Sl44EZr6MruTP#rd)
