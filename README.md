@@ -1,5 +1,9 @@
 # KIndex
 技术知识点索引，每日一读
+### 2016.08..26
+* [业内公认难题，如何解决小文件存储](http://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651297096&idx=1&sn=abff6586e14f1536e06c66fa5774b073&scene=1&srcid=0826xnaNHOYspchD9nXgSVBE#rd)
+* [从优化性能到应对峰值流量：微博缓存服务化的设计与实践](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547719&idx=1&sn=437dfd719e21de43546819d1ac0d08bf&scene=1&srcid=0826R7aXQ8q5gPROyAFqEPIr#rd)
+
 ### 2016.08.25
 * [如何实现1080P延迟低于500ms的实时超清直播传输技术](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547697&idx=1&sn=acc748b7fcf0058b58e244970e51eabc&scene=1&srcid=0825bTtm4f8GeS84wc2nnFe3#rd)
 * [Web服务器的工作原理](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477433&idx=1&sn=6a50cb4a24f0db5e3d034cfd22fead89&scene=1&srcid=0825SRcO4mN3digO1UZnXR9h#rd)
