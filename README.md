@@ -1,5 +1,8 @@
 # KIndex
 技术知识点索引，每日一读
+* [你真的了解一段Java程序的生命史吗](http://mp.weixin.qq.com/s?__biz=MzI0ODE4MDEzOA==&mid=2649541981&idx=1&sn=1704a11b6ecb3812e8f9b910e4e90ac0&scene=1&srcid=0829TVaobLhHwGKPvTVymo93#rd)
+* [图解TCP-IP协议](http://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=201615646&idx=1&sn=31aeec3e69eb3b2b3acafb3b128b0c4e&scene=1&srcid=0314PBF8hkfCUzUyFXxbspkW#rd)
+
 ### 2016.08..26
 * [业内公认难题，如何解决小文件存储](http://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651297096&idx=1&sn=abff6586e14f1536e06c66fa5774b073&scene=1&srcid=0826xnaNHOYspchD9nXgSVBE#rd)
 * [粗浅看Tomcat系统架构分析](http://www.importnew.com/21112.html)
