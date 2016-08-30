@@ -1,6 +1,10 @@
 # KIndex
 技术知识点索引，每日一读
 
+### 2016.08.30
+* [Dubbo架构设计详解](http://shiyanjun.cn/archives/325.html?from=timeline&isappinstalled=0)
+* [高性能数据库连接池的内幕](http://mp.weixin.qq.com/s?__biz=MzI3MzEzMDI1OQ==&mid=2651814835&idx=1&sn=cb775d3926ce39d12fa420a292c1f83d&scene=0#rd)
+
 ### 2016.08.29
 * [你真的了解一段Java程序的生命史吗](http://mp.weixin.qq.com/s?__biz=MzI0ODE4MDEzOA==&mid=2649541981&idx=1&sn=1704a11b6ecb3812e8f9b910e4e90ac0&scene=1&srcid=0829TVaobLhHwGKPvTVymo93#rd)
 * [图解TCP-IP协议](http://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=201615646&idx=1&sn=31aeec3e69eb3b2b3acafb3b128b0c4e&scene=1&srcid=0314PBF8hkfCUzUyFXxbspkW#rd)
