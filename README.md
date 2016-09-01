@@ -1,6 +1,10 @@
 # KIndex
 技术知识点索引，每日一读
 
+### 2016.09.01
+* [Apache Cassandra架构理解](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=2650342707&idx=1&sn=3a67dcf49f9218ef50fdcde43cfff2f2&scene=1&srcid=0901F6nQkEuxCC6rL9FZyT9m#rd)
+* [Flume(NG)架构设计要点及配置实践](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=402834708&idx=1&sn=e207df0fa2d7b33c3d32c7e7d9e2bdd3&scene=1&srcid=0901phMNwqjuK9883NMJNUq0#rd)
+
 ### 2016.08.31
 * [JAVA服务治理实践之无侵入的应用服务监控](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598052&idx=1&sn=631897c7a2792dd3a67774eedc966e29&scene=1&srcid=0831q2bsXcZKP4AAKNMs3g29#rd)
 * [如何设计一个web容器](http://blog.csdn.net/wangyangzhizhou/article/details/50662125)
