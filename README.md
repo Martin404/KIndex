@@ -1,6 +1,11 @@
 # KIndex
 技术知识点索引，每日一读
 
+### 2016.09.02
+* [互联网架构为什么要做服务化？](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959519&idx=1&sn=065074b135fc9cb243abe897261e1a72&scene=1&srcid=09028G5FPFNeYg5nJSBNZLDQ#rd)
+* [微服务架构多“微”才合适？](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959530&idx=1&sn=ff84bd74745eee1577e7dfef8ce66bbe&scene=1&srcid=09027E9p9yzBrNObojZTZsmC#rd)
+* [为什么说要搞定微服务架构，先搞定RPC框架？](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959553&idx=1&sn=c1084e91875721c5f6baf544450afa38&scene=1&srcid=0902QBWusyFdNG2jvdgh395w#rd)
+
 ### 2016.09.01
 * [Apache Cassandra架构理解](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=2650342707&idx=1&sn=3a67dcf49f9218ef50fdcde43cfff2f2&scene=1&srcid=0901F6nQkEuxCC6rL9FZyT9m#rd)
 * [Flume(NG)架构设计要点及配置实践](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=402834708&idx=1&sn=e207df0fa2d7b33c3d32c7e7d9e2bdd3&scene=1&srcid=0901phMNwqjuK9883NMJNUq0#rd)
